@@ -14,5 +14,8 @@ __Adopción__
 struct MyStruct: Codable { 
 ```
 
+# Conviértete en un Master de Codable
+https://flight.school/books/codable/
+
 # Más Información
 https://www.hackingwithswift.com/articles/119/codable-cheat-sheet
